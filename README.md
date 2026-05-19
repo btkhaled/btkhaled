@@ -7,5 +7,5 @@ Creator of **Samaris OS**, a bootable Native WebOS. I build systems. I optimize 
 ---
 
 🔭 **Currently building:** Samaris OS Mountain Lake Alpha One  
-📫 **Contact:** contact@samaris.tech  
+📫 **Contact:** contact.samaris.os@gmail.com
 🌐 **Website:** samaris.tech
