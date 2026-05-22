@@ -16,7 +16,7 @@ A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual�
 | Project | What it is |
 |---------|------------|
 | **Samaris OS Mountain Lake Alpha One** | Bootable Native WebOS — Linux, Rust, Electron, local AI inference |
-| **NP Problems — Road to Optimums** | 4 research papers, 242 benchmark instances, **94.2% success rate** on 3 NP‑hard problems |
+| **NP Problems — Road to Optimums** | **94.2% success rate** on 3 NP‑hard problems |
 
 ---
 
