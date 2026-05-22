@@ -38,8 +38,6 @@ A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual�
 
 🎨 FRONTEND │ React · Electron
 
-text
-
 ---
 
 ## 📡 Live repositories
