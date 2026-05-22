@@ -22,7 +22,7 @@ A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual�
 
 ## 📦 What's coming
 
-> *“Surprise & suspense…”*
+> *“Surprise & suspens…”*
 
 ---
 
