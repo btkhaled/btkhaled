@@ -22,21 +22,7 @@ A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual�
 
 ## 📦 What's coming
 
-> *“Surprise & suspens…”*
-
----
-
-## 🧠 Tech Arsenal
-
-⚙️ SYSTEMS │ Linux · Rust · Bootloaders · ELF · Native Computing · Wine
-
-🔥 OPTIMIZATION │ Branch & Bound · WalkSAT · Genetic Algorithms · Simulated Annealing · Local Search · Metaheuristics
-
-🧠 AI/ML │ LLaMA · LoRA · Transformers · NLP · Clinical AI
-
-☁️ DATA / BACKEND │ Python · R · SQL · FastAPI · Docker · GCP
-
-🎨 INTERFACES │ React · Electron
+> *“Surprise & suspense…”*
 
 ---
 
