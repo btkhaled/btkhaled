@@ -43,8 +43,7 @@ A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual�
 ## 📡 Live repositories
 
 - [**Samaris OS Mountain Lake Alpha One**](https://github.com/btkhaled/SamarisOSMountainLake) — bootable Native WebOS  
-- [**NP Problems Solving**](https://github.com/btkhaled/NP-Problems-Road-to-optimums) — 155 benchmarks, 94.2% success rate
-
+- [**NP Problems — Road to Optimums**](https://github.com/btkhaled/NP-Problems-Road-to-optimums) — 155 benchmarks, 94.2% success rate
 ---
 
 ## 📫 Contact
