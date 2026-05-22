@@ -1,6 +1,6 @@
 # Khaled Ben Taieb
 
-> *“I don’t fit in a box. I build the box.”*
+> *“I don’t fit in a box. I code the box.”*
 
 ---
 
