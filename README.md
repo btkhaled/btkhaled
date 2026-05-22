@@ -1,13 +1,52 @@
-# Hi there 👋
+# Khaled Ben Taieb
 
-**Khaled Ben Taieb** — OS Builder.
-
-Creator of **Samaris OS**, a bootable Native WebOS. I build systems. I optimize everything. I don't fit in a box — I build the box.
+> *“I don’t fit in a box. I build the box.”*
 
 ---
 
-🔭 **Currently building:** Samaris OS Mountain Lake Alpha Two 
+## 🔭 Currently building
 
-📫 **Contact:** contact.samaris.os@gmail.com
+**Samaris OS Mountain Lake Alpha Two**  
+A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual‑kernel.
 
-🌐 **Website:** samaris.tech
+---
+
+## 🚀 What I've built (published May 2026)
+
+| Project | What it is |
+|---------|------------|
+| **Samaris OS Mountain Lake Alpha One** | Bootable Native WebOS — Linux, Rust, Electron, local AI inference |
+| **NP Problems — Road to Optimums** | 4 research papers, 242 benchmark instances, **94.2% success rate** on 3 NP‑hard problems |
+
+---
+
+## 📦 What's coming
+
+> *“Surprise & suspense…”*
+
+---
+
+## 🧠 Tech arsenal
+⚙️ LOW-LEVEL │ Linux · Rust · Bootloaders · Wine · ISO · ELF
+🔥 OPTIMIZATION │ Branch & Bound · WalkSAT · GA · 2-opt · 3-opt · Simulated Annealing
+🧠 AI/ML │ LLaMA · LoRA · Transformers · PII Scrubbing · Clinical NLP
+☁️ BACKEND/CLOUD │ Python · R · SQL · Docker · GCP · FastAPI
+🎨 FRONTEND │ React · Electron
+
+text
+
+---
+
+## 📡 Live repositories
+
+- [**Samaris OS Mountain Lake Alpha One**](https://github.com/btkhaled/SamarisOSMountainLake) — bootable Native WebOS  
+- [**NP Problems Solving**](https://github.com/btkhaled/NP-Problems-Road-to-optimums) — 155 benchmarks, 94.2% success rate
+
+---
+
+## 📫 Contact
+
+- **Email:** bt.khaled@gmail.com  
+- **LinkedIn:** [linkedin.com/in/khaledbentaieb](https://linkedin.com/in/khaledbentaieb)
+
+---
