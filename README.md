@@ -27,10 +27,15 @@ A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual�
 ---
 
 ## 🧠 Tech arsenal
+
 ⚙️ LOW-LEVEL │ Linux · Rust · Bootloaders · Wine · ISO · ELF
-🔥 OPTIMIZATION │ Branch & Bound · WalkSAT · GA · 2-opt · 3-opt · Simulated Annealing
+
+🔥 OPTIMIZATION │ Branch & Bound · WalkSAT · Genetic Algorithms · 2-opt · 3-opt · Simulated Annealing
+
 🧠 AI/ML │ LLaMA · LoRA · Transformers · PII Scrubbing · Clinical NLP
+
 ☁️ BACKEND/CLOUD │ Python · R · SQL · Docker · GCP · FastAPI
+
 🎨 FRONTEND │ React · Electron
 
 text
