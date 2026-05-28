@@ -11,7 +11,7 @@ A bootable OS where the desktop is a React app. Local AI. Zero telemetry. Dual�
 
 ---
 
-## 🚀 What I've built (published May 2026)
+## 🚀 What I've built
 
 | Project | What it is |
 |---------|------------|
